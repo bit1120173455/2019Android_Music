@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">音立方</string>
+    <string name="music">音乐刷新</string>
+    <string name="image">图片刷新</string>
+    <string name="setting">系统设置</string>
+    <string name="music_title">畅想音乐</string>
+    <string name="video_title">新鲜图片</string>
+    <string name="private_information">个人信息</string>
+</resources>
